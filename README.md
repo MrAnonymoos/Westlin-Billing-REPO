@@ -22,3 +22,8 @@ medical-billing-website/
 1. Goto Home page of github repo
 2. Click view commits
 3. There you can find all of the commits or "Saved Changes" that took place.
+
+//STEPS TO ACCESS SITE
+
+1. Click Deployments on right side of home page.
+2. click link for site
