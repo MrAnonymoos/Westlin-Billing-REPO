@@ -57,24 +57,20 @@
             </div>
 
             <!-- Calendar Embed Area -->
-            <div class="calendar-container">
-                <div class="calendar-placeholder">
-                    <h2>📅 Schedule Your Appointment</h2>
-                    <p><strong>To enable online booking:</strong></p>
-                    <ol class="setup-instructions">
-                        <li>Create a free account at <a href="https://calendly.com" target="_blank">Calendly.com</a></li>
-                        <li>Set up your availability and appointment type</li>
-                        <li>Get your Calendly embed code</li>
-                        <li>Replace the code in this file (see instructions in the README)</li>
-                    </ol>
-                    
-                    <div class="alternative-booking">
-                        <h3>In the meantime, contact us directly:</h3>
-                        <p>📧 Email: <strong>person@email.com</strong></p>
-                        <p>📞 Phone: <strong>(555) 123-4567</strong></p>
-                        <p>Or <a href="contact.html">send us a message</a> with your preferred times</p>
-                    </div>
-                </div>
+            
+           <!-- Calendly inline widget begin -->
+            <div class="calendly-inline-widget" data-url="https://calendly.com/tylergishere/30min" style="min-width:320px;height:700px;"></div>
+            <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+            <!-- center align the badge widget-->
+            <style type="text/css">
+            .calendly-badge-widget { 
+            left: 50% !important; 
+            margin-left: -100px!important; 
+            }
+            </style>
+            <!--end center align the badge widget-->
+            <!-- Calendly inline widget end -->
 
                 <!-- CALENDLY EMBED GOES HERE 
                      Once you have your Calendly account, replace the calendar-placeholder div above with:
