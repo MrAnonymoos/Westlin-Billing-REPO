@@ -17,3 +17,8 @@ medical-billing-website/
 3. If new file then make branch extension
 4. Click "Commit changes" //Commit changes = Save Changes
       
+//STEPS TO CHECK COMMIT CHANGES
+
+1. Goto Home page of github repo
+2. Click view commits
+3. There you can find all of the commits or "Saved Changes" that took place.
