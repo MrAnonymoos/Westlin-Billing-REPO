@@ -54,7 +54,7 @@ body {
 .nav-brand h1 {
     font-size: 4rem;
     color: var(--primary-color);
-    margin-bottom: 0.05rem;
+    margin-bottom: 0rem;
 }
 
 .nav-brand .tagline {
