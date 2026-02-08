@@ -26,3 +26,4 @@ medical-billing-website/
 
 1. Click Deployments on right side of home page.
 2. click link for site
+3. www.westlinbilling.com
