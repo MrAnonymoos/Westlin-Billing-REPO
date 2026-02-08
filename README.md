@@ -14,8 +14,7 @@ medical-billing-website/
 
 1. In your new repository, click "Add file" → "Upload files"
 2. Drag and drop the file
-3. If new file then make branch extension
-4. Click "Commit changes" //Commit changes = Save Changes
+3. Click "Commit changes" //Commit changes = Save Changes
       
 //STEPS TO CHECK COMMIT CHANGES
 
