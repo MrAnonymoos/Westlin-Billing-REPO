@@ -316,6 +316,7 @@ body {
 
 .footer-section ul li {
     margin-bottom: 0.5rem;
+    font-size: 2rem;
 }
 
 .footer-section ul li a {
@@ -333,7 +334,6 @@ body {
     padding-top: 2rem;
     border-top: 1px solid #374151;
     color: #9ca3af;
-    font-size: 2rem;
 }
 
 /* Page Header */
