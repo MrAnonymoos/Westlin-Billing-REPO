@@ -303,6 +303,7 @@ body {
 .footer-section h4 {
     margin-bottom: 1rem;
     color: var(--primary-color);
+    font-size: 1.5rem;
 }
 
 .footer-section p {
