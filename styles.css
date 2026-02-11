@@ -312,11 +312,11 @@ body {
 
 .footer-section ul {
     list-style: none;
+    font-size: 2rem;
 }
 
 .footer-section ul li {
     margin-bottom: 0.5rem;
-    font-size: 2rem;
 }
 
 .footer-section ul li a {
